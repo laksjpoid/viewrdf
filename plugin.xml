@@ -12,7 +12,7 @@
             name="Sample View"
             icon="icons/sample.gif"
             category="viewrdf"
-            class="viewrdf.views.SampleView"
+            class="viewrdf.views.ViewRdfView"
             id="viewrdf.views.SampleView">
       </view>
    </extension>
